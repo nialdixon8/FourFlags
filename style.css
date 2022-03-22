@@ -146,17 +146,17 @@ hr.light-100 {
 }
 @media (max-width: 576px) {
   .carousel-caption {
-    top: 40%;
+    top: 35%;
   }
   .carousel-caption h1 {
-    font-size: 250%;
+    font-size: 200%;
     color: #F37743;
   }
   .carousel-caption h3 {
-    font-size: 110%;
+    font-size: 90%;
   }
   .carousel-caption .btn {
-    font-size: 90%;
+    font-size: 70%;
     padding: 4px 8px;
   }
   .carousel-indicators {
